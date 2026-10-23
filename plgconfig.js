@@ -1,5 +1,5 @@
 var config = {
-  plgPath: process.env.HOME + '/Library/Application Support/Avid/Sibelius 7.5/Plugins',
+  plgPath: process.env.HOME + '/Library/Application Support/Avid/Sibelius/Plugins',
   plgCategory: 'Library',
   pluginFilename: 'Test.plg',
   importDir: './import',
